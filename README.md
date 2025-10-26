@@ -35,7 +35,7 @@
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/forensai.git
+   git clone https://github.com/FaisalSheriff0706/forensai
    cd forensai
 ```
 
